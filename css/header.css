@@ -5,5 +5,17 @@
 	background-image: url(https://unsplash.it/g/1900/400);
 	background-size:cover;
 	color:#CCC; 
-	text-shadow: 2px 2px 3px #999
+	text-shadow: 2px 2px 3px #999;
+	margin:-250px -250px 0px -250px; 
 }
+
+#header h1{
+	font-size: 100px;
+}
+
+#header h4{
+	font-size: 40px;
+	border:none;
+}
+
+/* Ajouter un filtre linéair par dessus l'image */
