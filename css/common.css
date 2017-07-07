@@ -1,0 +1,28 @@
+body {
+	background: #CCC;
+	font-family: 'Open Sans';
+}
+
+p{
+
+}
+
+a{
+
+}
+
+a:hover{
+
+}
+
+div,h3 {
+	border: solid 1px black;
+}
+
+h1{
+	font-size: 100px;
+}
+
+h4{
+	font-size: 40px;
+}
