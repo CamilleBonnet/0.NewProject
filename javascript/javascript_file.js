@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	var $div = $("div");
-	$(button).click(function(){
+	$(".btn-java").click(function(){
 		$div.fadeout("fast");
 	});
 })

@@ -2,7 +2,7 @@
 	text-align: center;
 	height: 25em;
 	padding: 50px;
-	background-image: url(https://unsplash.it/g/1900/400);
+	background-image: url("../images/backgroundHeaderBW.jpg");
 	background-size:cover;
 	color:#CCC; 
 	text-shadow: 2px 2px 3px #999;
@@ -18,4 +18,4 @@
 	border:none;
 }
 
-/* Ajouter un filtre linéair par dessus l'image */
+/* Ajouter un filtre linéair par dessus */
