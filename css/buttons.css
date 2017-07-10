@@ -1,0 +1,39 @@
+#buttons{
+
+}
+.bttn{
+	font-size: 25px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 10px 30px;
+	border-radius: 7px;
+}
+
+.btn-01{
+	background-color: #3B5998;
+	color:white;
+	opacity: 0.8;
+}
+
+.btn-01:hover{
+	background-color: #3B5998;
+	opacity: 1;
+	color:white;
+}
+
+
+.btn-02{
+	background-color: #FAFAFA;
+	color:#535353;
+	border:2px solid #535353;
+	opacity: 0.8;
+}
+
+.btn-02:hover{
+	background-color: #FAFAFA;
+	color:#535353;
+	border:2px solid #535353;
+		opacity: 1;
+}
+
