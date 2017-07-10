@@ -1,0 +1,14 @@
+.big{
+	width:75px;
+	height: 75px;
+}
+
+.small{
+	width:15px;
+	height: 15px;	
+}
+
+.avatar{
+	border-radius: 100%;
+	border:2px solid black;
+}
