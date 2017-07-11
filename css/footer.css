@@ -1,0 +1,27 @@
+#footer{
+	background-color: #555;
+	color: #DDD;
+	margin:0 -250px 0 -250px;
+}
+
+.footer-icon{
+	margin:0 250px 0 250px;
+}
+
+#footer h3{
+	margin-left: 250px;
+	margin-right: 250px;
+}
+i{
+	margin: 0 5px;
+}
+#footer a{
+	background-color: #555;
+	color: #DDD;
+}
+#footer a:hover{
+	background-color: #555;
+	color: #AAA;
+}
+
+
