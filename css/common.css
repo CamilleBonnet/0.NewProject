@@ -3,3 +3,7 @@ body {
 	font-family: 'Open Sans';
 	margin: 0 250px 0 250px;
 }
+
+.inProgress{
+	font-weight: bold;
+}

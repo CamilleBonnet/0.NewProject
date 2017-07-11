@@ -1,0 +1,12 @@
+#javascript{
+
+}
+
+.clickEvent{
+	opacity: 0.5;
+}
+
+.hoverEvent{
+	border: 2px solid white;
+	opacity:0.7;
+}

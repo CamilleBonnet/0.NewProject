@@ -1,6 +1,12 @@
 $(document).ready(function(){
-	var $div = $("div");
-	$(".btn-java").click(function(){
-		$div.fadeout("fast");
+	var $bjc=$(".btn-java-click");
+	$bjc.click(function(){
+		$bjc.toggleClass("clickEvent");
 	});
+
+	var $bjh=$(".btn-java-hover");
+	$bjh.hover(function(){
+		$bjh.toggleClass("hoverEvent");
+	});
+
 })
