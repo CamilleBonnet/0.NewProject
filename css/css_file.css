@@ -1,7 +1,7 @@
 /* Import of the Google Font */
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
 
-/* Import of all the CSS */
+/* Import of all the CSS needed */
 @import url("./common.css");
 @import url("./header.css");
 @import url("./menu.css");

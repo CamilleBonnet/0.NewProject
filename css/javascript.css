@@ -1,5 +1,6 @@
-#javascript{
-
+.jvscript{
+	display: inline-block;
+	margin-right: 25px;
 }
 
 .clickEvent{
