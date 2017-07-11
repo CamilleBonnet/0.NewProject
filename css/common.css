@@ -7,3 +7,15 @@ body {
 .inProgress, .title{
 	font-weight: bold;
 }
+
+.page{
+	border-left: 1px solid #AAA;
+	/*border-right: 1px solid #555;*/
+	background-color: #DDD;
+	box-shadow:5px 0px 5px grey;
+	padding:10px 10px 10px 10px;
+}
+
+.title{
+	margin-top: 0;
+}
