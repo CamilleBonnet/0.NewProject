@@ -6,7 +6,7 @@
 	background-size:cover;
 	color:#CCC; 
 	text-shadow: 2px 2px 3px #999;
-	margin:-250px -250px 0px -250px; 
+	margin: 0 -250px 0px -250px; 
 }
 
 #header h1{
