@@ -1,0 +1,50 @@
+.card{
+	height: 250px;
+	border: 1px solid black;
+	display: inline-block;
+	margin: 5px;
+	background-image: linear-gradient(rgba(25,25,25,0.2),rgba(100,100,100,0.3)), url("../../images/cardBg.jpeg");
+	background-size: cover;
+	color: white;
+	position:relative;
+
+}
+
+.card-description{
+	position:absolute;
+	bottom: 30px;
+	font-size: 20px;
+	left:30px;
+}
+
+.card-category{
+	position:absolute;
+	top:30px;
+	font-size: 30px;
+	left:30px;
+}
+
+.card-image{
+	position: absolute;
+	top:30px;
+	right: 30px;
+}
+
+
+@media (min-width: 768px){
+	.col-sm-6 {
+    width: 40%;
+	}
+}	
+
+@media (min-width: 992px){
+	.col-md-4 {
+    width: 30%;
+	}
+}
+
+@media (min-width: 1200px){
+	.col-lg-3 {
+    width: 23%;
+	}
+}
